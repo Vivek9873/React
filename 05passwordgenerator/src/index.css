@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button:hover{
+  background-color: darkblue;
+  border: solid blue 1px;
+  /* text-shadow: blue 2px 3px; */
+  /* color: ; */
+}
+button:active{
+  box-shadow: 0 0.2rem 0 0.25rem lightblue;
+}
+/* *{
+  
+} */
